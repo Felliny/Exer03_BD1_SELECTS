@@ -10,6 +10,9 @@ Exercício 3 de Banco de dados
 ![image](https://github.com/Felliny/Exer03_BD1_SELECTS/assets/99506287/9f279839-0ea7-432f-82d0-c2d5b3ff4b3a)
 
 
+![image](https://github.com/Felliny/Exer03_BD1_SELECTS/assets/99506287/dab5d2be-35b3-48e0-9a97-a83597143712)
+
+
 
 # Tabela Locadora
 
