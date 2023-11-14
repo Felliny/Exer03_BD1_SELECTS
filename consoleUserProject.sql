@@ -122,10 +122,6 @@ where u.id = uhp.users_id
 -- Name dos Projects que não tem Users
 
 
-insert into users_has_projects
-values
-    (null, 10004)
-
 select p.name
 from projects p left join users_has_projects uhp on p.id = uhp.projects_id
 where uhp.users_id is null
